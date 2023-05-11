@@ -1,0 +1,4 @@
+table_name  :  INFO
+COL1,INTEGER
+COL2,STRING
+COL3,STRING)
